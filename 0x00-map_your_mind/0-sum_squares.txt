@@ -1,0 +1,1 @@
+receive input and sqaure them individually and add them at the end
