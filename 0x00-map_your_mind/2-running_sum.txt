@@ -1,0 +1,1 @@
+accept a number from a user that will be added to the sum and break when negative number stop adding numbers and print the result
