@@ -1,0 +1,1 @@
+accept three numbers and compare them and write then in order
